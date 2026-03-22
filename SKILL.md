@@ -1,5 +1,6 @@
 ---
 name: ai-meeting-minutes
+homepage: https://github.com/ryan-wuxl/ai-meeting-minutes-pro
 description: AI 会议纪要生成器 - 自动整理会议录音或文字记录，生成结构化会议纪要。支持提取待办事项、决策点、关键结论，输出专业格式的会议文档。
 homepage: https://github.com/openclaw/ai-meeting-minutes
 metadata:
